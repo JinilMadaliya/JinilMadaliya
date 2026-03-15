@@ -1,16 +1,38 @@
 <div align="center">
 
-<!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jinil%20Madaliya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20B.Tech%202nd%20Year%20%7C%20Nirma%20University&descAlignY=58&descSize=16&animation=fadeIn)
+<!-- ═══════════════════════════════════════════════════════════
+     HEADER — Pure HTML table, zero external image dependency
+════════════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Jinil+%F0%9F%91%8B;CS+Engineer+in+the+Making+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Tells+Stories+%E2%80%94+I+Listen+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" bgcolor="#0f0c29" style="padding:40px 20px 10px 20px; border-radius:12px;">
+
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+&nbsp; Jinil Madaliya &nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<h3>🎓 B.Tech Computer Science & Engineering · 2nd Year</h3>
+<h4>🏛️ Nirma University, Institute of Technology · Ahmedabad, Gujarat 🇮🇳</h4>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
+<!-- Typing Animation — demolab is reliable and GitHub-safe -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Jinil+%F0%9F%91%8B;CS+Engineer+in+the+Making+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Tells+Stories+%E2%80%94+I+Listen+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=JinilMadaliya&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jinil_Madaliya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinil-madaliya-46881539a/)
 [![GitHub](https://img.shields.io/badge/GitHub-JinilMadaliya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinilMadaliya)
+[![Gmail](https://img.shields.io/badge/Gmail-jinilnpatel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinilnpatel@gmail.com)
 
 </div>
 
@@ -27,7 +49,7 @@ class Jinil:
         self.degree     = "B.Tech — Computer Science & Engineering"
         self.year       = "2nd Year"
         self.university = "Nirma University, Institute of Technology"
-        self.location   = "Surat, Gujarat, India 🇮🇳"
+        self.location   = "Ahmedabad, Gujarat, India 🇮🇳"
         self.interests  = ["Machine Learning", "AI", "Data Analysis"]
         self.languages  = ["Python", "C", "C++", "Java", "JavaScript"]
         self.tools      = ["VS Code", "Jupyter", "Google Colab", "Git"]
@@ -50,7 +72,7 @@ me.say_hi()
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -60,7 +82,7 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**ML / Data Science**
+**🤖 ML / Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -68,7 +90,7 @@ me.say_hi()
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools & Platforms**
+**🔧 Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -107,7 +129,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Banking System](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=banking-management-system&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/banking-management-system-cpp)
+[![Banking System](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=banking-management-system-cpp&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/banking-management-system-cpp)
 [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=sudoku-solver-visualizer&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/sudoku-solver-visualizer)
 [![Diabetes Prediction](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=diabetes-prediction-ml&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/diabetes-prediction-ml)
 
@@ -130,7 +152,7 @@ me.say_hi()
 <div align="center">
 
 ```
-🎓  Pursuing B.Tech CSE @ Nirma University, Institute of Technology
+🎓  Pursuing B.Tech CSE @ Nirma University, Institute of Technology, Ahmedabad
 🤖  Diving deep into Machine Learning & AI
 📊  Building Data Analysis projects
 💻  Strengthening DSA with C++ & Java
@@ -153,7 +175,9 @@ me.say_hi()
 
 *💬 "Code is not just syntax — it's the language of problem solving."*
 
-</div>
+<br/>
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<!-- Snake animation — generated by GitHub Actions, fully native -->
+![snake gif](https://github.com/JinilMadaliya/JinilMadaliya/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
