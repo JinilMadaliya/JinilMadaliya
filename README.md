@@ -1,7 +1,43 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jinil%20Madaliya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20B.Tech%202nd%20Year&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Header Banner — self-contained SVG, no external dependency -->
+<svg width="100%" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f0c29"/>
+      <stop offset="50%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <style>
+      @keyframes fadeIn { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+      .title { animation: fadeIn 1s ease forwards; }
+      .sub   { animation: fadeIn 1.4s ease forwards; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#headerGrad)"/>
+  <!-- Wave bottom -->
+  <path d="M0,160 C150,200 350,120 600,170 C750,200 850,155 900,160 L900,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,175 C200,145 400,195 600,165 C750,145 850,175 900,170 L900,200 L0,200 Z" fill="#0d1117"/>
+  <!-- Decorative circles -->
+  <circle cx="820" cy="40"  r="55" fill="#a78bfa" opacity="0.07"/>
+  <circle cx="780" cy="80"  r="30" fill="#7c3aed" opacity="0.10"/>
+  <circle cx="80"  cy="160" r="40" fill="#a78bfa" opacity="0.06"/>
+  <!-- Name -->
+  <text class="title" x="450" y="90" font-family="'Segoe UI',sans-serif" font-size="54" font-weight="900"
+        fill="white" text-anchor="middle" letter-spacing="2">Jinil Madaliya</text>
+  <!-- Accent underline -->
+  <rect x="310" y="100" width="280" height="3" rx="2" fill="#a78bfa" opacity="0.9"/>
+  <!-- Subtitle -->
+  <text class="sub" x="450" y="135" font-family="'Segoe UI',sans-serif" font-size="17"
+        fill="#c4b5fd" text-anchor="middle" letter-spacing="1">
+    Computer Science &amp; Engineering · B.Tech 2nd Year
+  </text>
+  <text class="sub" x="450" y="158" font-family="'Segoe UI',sans-serif" font-size="14"
+        fill="#8b7fad" text-anchor="middle">
+    Nirma University · Surat, India
+  </text>
+</svg>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -156,5 +192,17 @@ me.say_hi()
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<!-- Footer Wave — self-contained SVG, no external dependency -->
+<svg width="100%" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#24243e"/>
+      <stop offset="50%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#footerGrad)"/>
+  <path d="M0,40 C200,0 400,70 600,30 C750,5 850,45 900,35 L900,0 L0,0 Z" fill="#0d1117"/>
+  <circle cx="100" cy="72" r="30" fill="#a78bfa" opacity="0.07"/>
+  <circle cx="800" cy="55" r="45" fill="#7c3aed" opacity="0.06"/>
+</svg>
