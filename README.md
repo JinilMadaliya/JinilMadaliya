@@ -129,7 +129,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Banking System](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=banking-management-system-cpp&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/banking-management-system-cpp)
+[![Banking System](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=banking-management-system&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/banking-management-system)
 [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=sudoku-solver-visualizer&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/sudoku-solver-visualizer)
 [![Diabetes Prediction](https://github-readme-stats.vercel.app/api/pin/?username=JinilMadaliya&repo=diabetes-prediction-ml&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)](https://github.com/JinilMadaliya/diabetes-prediction-ml)
 
