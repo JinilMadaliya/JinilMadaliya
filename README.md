@@ -47,7 +47,7 @@ class Jinil:
     def __init__(self):
         self.name       = "Jinil Madaliya"
         self.degree     = "B.Tech — Computer Science & Engineering"
-        self.year       = "3rdnd Year"
+        self.year       = "3rd Year"
         self.university = "Nirma University, Institute of Technology"
         self.location   = "Ahmedabad, Gujarat, India 🇮🇳"
         self.interests  = ["Machine Learning", "AI", "Data Analysis"]
