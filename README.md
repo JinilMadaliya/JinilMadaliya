@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
-<h3>🎓 B.Tech Computer Science & Engineering · 2nd Year</h3>
+<h3>🎓 B.Tech Computer Science & Engineering · 3rd Year</h3>
 <h4>🏛️ Nirma University, Institute of Technology · Ahmedabad, Gujarat 🇮🇳</h4>
 
 </td>
@@ -47,7 +47,7 @@ class Jinil:
     def __init__(self):
         self.name       = "Jinil Madaliya"
         self.degree     = "B.Tech — Computer Science & Engineering"
-        self.year       = "2nd Year"
+        self.year       = "3rdnd Year"
         self.university = "Nirma University, Institute of Technology"
         self.location   = "Ahmedabad, Gujarat, India 🇮🇳"
         self.interests  = ["Machine Learning", "AI", "Data Analysis"]
